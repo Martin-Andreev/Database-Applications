@@ -1,0 +1,12 @@
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\bin\Debug\Import-Rivers-From-XML.exe.config
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\bin\Debug\Import-Rivers-From-XML.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\bin\Debug\Import-Rivers-From-XML.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\bin\Debug\EF-Mappings.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\bin\Debug\EF-Mappings.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\obj\Debug\Import-Rivers-From-XML.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\obj\Debug\Import-Rivers-From-XML.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Import-Rivers-From-XML\obj\Debug\4. Import-Rivers-From-XML.csprojResolveAssemblyReference.cache

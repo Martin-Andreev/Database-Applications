@@ -1,0 +1,10 @@
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Exercise\BookShopSystem\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.dll.config
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Exercise\BookShopSystem\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Exercise\BookShopSystem\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.pdb
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Exercise\BookShopSystem\BookShopSystem.Models\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Exercise\BookShopSystem\BookShopSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Exercise\BookShopSystem\BookShopSystem.Models\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Exercise\BookShopSystem\BookShopSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Exercise\BookShopSystem\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Exercise\BookShopSystem\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Exercise\BookShopSystem\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.pdb

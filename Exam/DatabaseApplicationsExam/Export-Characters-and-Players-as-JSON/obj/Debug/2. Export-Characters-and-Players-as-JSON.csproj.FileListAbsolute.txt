@@ -1,0 +1,12 @@
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\bin\Debug\Export-Characters-and-Players-as-JSON.exe.config
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\obj\Debug\Export-Characters-and-Players-as-JSON.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\obj\Debug\Export-Characters-and-Players-as-JSON.pdb
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\bin\Debug\Export-Characters-and-Players-as-JSON.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\bin\Debug\Export-Characters-and-Players-as-JSON.pdb
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\bin\Debug\EntityFramework.dll
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\bin\Debug\Media-EF-Data-Model.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\bin\Debug\Media-EF-Data-Model.pdb
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\bin\Debug\EntityFramework.xml
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Characters-and-Players-as-JSON\obj\Debug\2. Export-Characters-and-Players-as-JSON.csprojResolveAssemblyReference.cache

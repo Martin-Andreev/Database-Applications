@@ -1,0 +1,12 @@
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll.config
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
+D:\SoftUni\Level #3\Database Apps\Entity Framework Code First\Entity-Framework-Code-First-Homework\StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb

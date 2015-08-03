@@ -1,0 +1,9 @@
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\XMLBasicConcepts\bin\Debug\XMLBasicConcepts.exe.config
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\XMLBasicConcepts\bin\Debug\XMLBasicConcepts.exe
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\XMLBasicConcepts\bin\Debug\XMLBasicConcepts.pdb
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\XMLBasicConcepts\obj\Debug\XMLBasicConcepts.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\XMLBasicConcepts\obj\Debug\XMLBasicConcepts.exe
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\XMLBasicConcepts\obj\Debug\XMLBasicConcepts.pdb
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XMLBasicConcepts\bin\Debug\XMLBasicConcepts.exe.config
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XMLBasicConcepts\obj\Debug\XMLBasicConcepts.exe
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XMLBasicConcepts\obj\Debug\XMLBasicConcepts.pdb

@@ -1,0 +1,12 @@
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\bin\Debug\Import-Leagues-and-Teams-from-XML.exe.config
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\bin\Debug\Import-Leagues-and-Teams-from-XML.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\bin\Debug\Import-Leagues-and-Teams-from-XML.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\bin\Debug\EFMappings.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\bin\Debug\EFMappings.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\obj\Debug\Import-Leagues-and-Teams-from-XML.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\obj\Debug\Import-Leagues-and-Teams-from-XML.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Import-Leagues-and-Teams-from-XML\obj\Debug\4. Import-Leagues-and-Teams-from-XML.csprojResolveAssemblyReference.cache

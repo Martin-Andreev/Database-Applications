@@ -1,0 +1,9 @@
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\ATM.Models\bin\Debug\ATM.Models.dll.config
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\ATM.Models\bin\Debug\ATM.Models.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\ATM.Models\bin\Debug\ATM.Models.pdb
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\ATM.Models\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\ATM.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\ATM.Models\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\ATM.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\ATM.Models\obj\Debug\ATM.Models.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\ATM.Models\obj\Debug\ATM.Models.pdb

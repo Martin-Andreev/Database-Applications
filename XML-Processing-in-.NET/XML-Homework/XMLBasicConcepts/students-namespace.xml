@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students
+    xmlns:student = "urn:students"
+		xmlns:exam = "urn:exams">
+  <student:student>
+    <student:name>Ivan Ivanov</student:name>
+    <student:gender>male</student:gender>
+    <student:birth-date>1992-05-17</student:birth-date>
+    <student:phone-number>0881234567</student:phone-number>
+    <student:email>peter.91@gmail.com</student:email>
+    <student:university>Plovdiv University</student:university>
+    <student:specialty>Software Technology and Design</student:specialty>
+    <student:faculty-number>01-02-4569155</student:faculty-number>
+    <exams>
+      <exam:exam>
+        <exam:exam-name>Programming basics</exam:exam-name>
+        <exam:date-taken>2014-12-10</exam:date-taken>
+        <exam:grade>3.2</exam:grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:exam-name>Web Technology</exam:exam-name>
+        <exam:date-taken>2015-03-05</exam:date-taken>
+        <exam:grade>5.50</exam:grade>
+      </exam:exam>
+    </exams>
+  </student:student>
+  <student:student>
+    <student:name>Rumen Andreev</student:name>
+    <student:gender>male</student:gender>
+    <student:birth-date>1971-02-03</student:birth-date>
+    <student:email>randreev@abv.bg</student:email>
+    <student:university>Cambrige</student:university>
+    <student:specialty>Informatic</student:specialty>
+    <exams>
+      <exam:exam>
+        <exam:exam-name>Advance programming</exam:exam-name>
+        <exam:date-taken>2015-03-10</exam:date-taken>
+        <exam:grade>6</exam:grade>
+      </exam:exam>
+    </exams>
+  </student:student>
+  <student:student>
+    <student:name>Dilyana Bachvarova</student:name>
+    <student:gender>Female</student:gender>
+    <student:birth-date>1994-11-13</student:birth-date>
+    <student:phone-number>1234567890</student:phone-number>
+    <student:email>dilyna@gmail.com</student:email>
+    <student:university>Pernik University</student:university>
+    <student:specialty>Arn</student:specialty>
+    <exams>
+      <exam:exam>
+        <exam:exam-name>History of art</exam:exam-name>
+        <exam:date-taken>2013-02-11</exam:date-taken>
+        <exam:grade>4.6</exam:grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:exam-name>Music</exam:exam-name>
+        <exam:date-taken>2014-01-11</exam:date-taken>
+        <exam:grade>3</exam:grade>
+      </exam:exam>
+    </exams>
+  </student:student>
+</students>

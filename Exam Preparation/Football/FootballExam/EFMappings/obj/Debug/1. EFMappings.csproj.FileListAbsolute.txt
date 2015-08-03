@@ -1,0 +1,10 @@
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\EFMappings\bin\Debug\EFMappings.exe.config
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\EFMappings\bin\Debug\EFMappings.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\EFMappings\bin\Debug\EFMappings.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\EFMappings\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\EFMappings\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\EFMappings\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\EFMappings\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\EFMappings\obj\Debug\1. EFMappings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\EFMappings\obj\Debug\EFMappings.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\EFMappings\obj\Debug\EFMappings.pdb

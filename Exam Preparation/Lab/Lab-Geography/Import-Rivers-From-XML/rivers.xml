@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rivers>
+  <river>
+    <name>Maritsa</name>
+    <length>480</length>
+    <outflow>Aegan Sea</outflow>
+    <countries>
+      <country>Bulgaria</country>
+      <country>Turkey</country>
+    </countries>
+  </river>
+  <river>
+    <name>Topolnitsa</name>
+    <length>50</length>
+    <drainage-area>125000</drainage-area>
+    <average-discharge>4915</average-discharge>
+    <outflow>Pirdop Sea</outflow>
+    <countries>
+      <country>Bulgaria</country>
+    </countries>
+  </river>
+  <river>
+    <name>Dunav</name>
+    <length>2480</length>
+    <outflow>Black Sea</outflow>
+    <countries>
+      <country>Bulgaria</country>
+      <country>Austria</country>
+      <country>Germany</country>
+    </countries>
+  </river>
+</rivers>

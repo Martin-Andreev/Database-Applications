@@ -1,0 +1,10 @@
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Movies-EF-Code-First\bin\Debug\Movies-EF-Code-First.exe.config
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Movies-EF-Code-First\bin\Debug\Movies-EF-Code-First.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Movies-EF-Code-First\bin\Debug\Movies-EF-Code-First.pdb
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Movies-EF-Code-First\bin\Debug\EntityFramework.dll
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Movies-EF-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Movies-EF-Code-First\bin\Debug\EntityFramework.xml
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Movies-EF-Code-First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Movies-EF-Code-First\obj\Debug\5. Movies-EF-Code-First.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Movies-EF-Code-First\obj\Debug\Movies-EF-Code-First.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Movies-EF-Code-First\obj\Debug\Movies-EF-Code-First.pdb

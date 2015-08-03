@@ -1,0 +1,10 @@
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Exercise\EntityFramework\SofUni-Database-First\bin\Debug\SofUni-Database-First.exe.config
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Exercise\EntityFramework\SofUni-Database-First\bin\Debug\SofUni-Database-First.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Exercise\EntityFramework\SofUni-Database-First\bin\Debug\SofUni-Database-First.pdb
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Exercise\EntityFramework\SofUni-Database-First\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Exercise\EntityFramework\SofUni-Database-First\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Exercise\EntityFramework\SofUni-Database-First\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Exercise\EntityFramework\SofUni-Database-First\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Exercise\EntityFramework\SofUni-Database-First\obj\Debug\SofUni-Database-First.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Exercise\EntityFramework\SofUni-Database-First\obj\Debug\SofUni-Database-First.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Exercise\EntityFramework\SofUni-Database-First\obj\Debug\SofUni-Database-First.pdb

@@ -1,0 +1,12 @@
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\bin\Debug\Export-International-Matches-as-XML.exe.config
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\bin\Debug\Export-International-Matches-as-XML.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\bin\Debug\Export-International-Matches-as-XML.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\bin\Debug\EFMappings.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\bin\Debug\EFMappings.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\obj\Debug\3. Export-International-Matches-as-XML.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\obj\Debug\Export-International-Matches-as-XML.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-International-Matches-as-XML\obj\Debug\Export-International-Matches-as-XML.pdb

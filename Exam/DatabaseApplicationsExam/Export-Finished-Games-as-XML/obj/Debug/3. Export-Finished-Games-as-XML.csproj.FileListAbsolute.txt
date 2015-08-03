@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Finished-Games-as-XML\bin\Debug\Export-Finished-Games-as-XML.exe.config
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Finished-Games-as-XML\bin\Debug\Export-Finished-Games-as-XML.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Finished-Games-as-XML\bin\Debug\Export-Finished-Games-as-XML.pdb
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Finished-Games-as-XML\bin\Debug\EntityFramework.dll
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Finished-Games-as-XML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Finished-Games-as-XML\bin\Debug\Media-EF-Data-Model.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Finished-Games-as-XML\bin\Debug\Media-EF-Data-Model.pdb
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Finished-Games-as-XML\bin\Debug\EntityFramework.xml
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Finished-Games-as-XML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Finished-Games-as-XML\obj\Debug\Export-Finished-Games-as-XML.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Export-Finished-Games-as-XML\obj\Debug\Export-Finished-Games-as-XML.pdb

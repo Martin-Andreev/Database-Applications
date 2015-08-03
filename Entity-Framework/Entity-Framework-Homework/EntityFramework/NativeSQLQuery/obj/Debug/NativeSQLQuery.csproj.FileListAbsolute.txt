@@ -1,0 +1,12 @@
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\bin\Debug\NativeSQLQuery.exe.config
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\bin\Debug\NativeSQLQuery.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\bin\Debug\NativeSQLQuery.pdb
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\bin\Debug\SoftUniCRUD.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\bin\Debug\SoftUniCRUD.pdb
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\obj\Debug\NativeSQLQuery.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\obj\Debug\NativeSQLQuery.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\NativeSQLQuery\obj\Debug\NativeSQLQuery.pdb

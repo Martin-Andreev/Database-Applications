@@ -1,0 +1,12 @@
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\bin\Debug\Export-Rivers-as-JSON.exe.config
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\bin\Debug\Export-Rivers-as-JSON.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\bin\Debug\Export-Rivers-as-JSON.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\bin\Debug\EF-Mappings.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\bin\Debug\EF-Mappings.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\obj\Debug\2. Export-Rivers-as-JSON.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\obj\Debug\Export-Rivers-as-JSON.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Export-Rivers-as-JSON\obj\Debug\Export-Rivers-as-JSON.pdb

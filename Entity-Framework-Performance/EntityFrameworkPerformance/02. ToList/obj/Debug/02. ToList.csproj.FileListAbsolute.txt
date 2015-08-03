@@ -1,0 +1,12 @@
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\bin\Debug\_02.ToList.exe.config
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\bin\Debug\_02.ToList.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\bin\Debug\_02.ToList.pdb
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\bin\Debug\_01.ShowDataFromRelatedTables.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\bin\Debug\_01.ShowDataFromRelatedTables.pdb
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\obj\Debug\02. ToList.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\obj\Debug\_02.ToList.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\02. ToList\obj\Debug\_02.ToList.pdb

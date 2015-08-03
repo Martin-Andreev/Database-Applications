@@ -1,0 +1,12 @@
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\bin\Debug\ImportContactsFromJSON.exe.config
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\bin\Debug\ImportContactsFromJSON.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\bin\Debug\ImportContactsFromJSON.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\bin\Debug\Phonebook-EF-Code-First.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\bin\Debug\Phonebook-EF-Code-First.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\obj\Debug\7. ImportContactsFromJSON.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\obj\Debug\ImportContactsFromJSON.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\ImportContactsFromJSON\obj\Debug\ImportContactsFromJSON.pdb

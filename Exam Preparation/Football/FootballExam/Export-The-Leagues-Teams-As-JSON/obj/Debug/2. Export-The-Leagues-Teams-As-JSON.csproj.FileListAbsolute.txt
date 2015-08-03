@@ -1,0 +1,12 @@
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\bin\Debug\Export-The-Leagues-Teams-As-JSON.exe.config
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\bin\Debug\Export-The-Leagues-Teams-As-JSON.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\bin\Debug\Export-The-Leagues-Teams-As-JSON.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\bin\Debug\EFMappings.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\bin\Debug\EFMappings.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\obj\Debug\2. Export-The-Leagues-Teams-As-JSON.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\obj\Debug\Export-The-Leagues-Teams-As-JSON.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Export-The-Leagues-Teams-As-JSON\obj\Debug\Export-The-Leagues-Teams-As-JSON.pdb

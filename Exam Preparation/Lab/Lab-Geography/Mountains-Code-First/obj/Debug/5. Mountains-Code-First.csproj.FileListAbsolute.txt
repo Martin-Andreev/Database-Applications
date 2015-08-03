@@ -1,0 +1,10 @@
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Mountains-Code-First\bin\Debug\Mountains-Code-First.exe.config
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Mountains-Code-First\bin\Debug\Mountains-Code-First.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Mountains-Code-First\bin\Debug\Mountains-Code-First.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Mountains-Code-First\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Mountains-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Mountains-Code-First\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Mountains-Code-First\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Mountains-Code-First\obj\Debug\5. Mountains-Code-First.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Mountains-Code-First\obj\Debug\Mountains-Code-First.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Lab\Lab-Geography\Mountains-Code-First\obj\Debug\Mountains-Code-First.pdb

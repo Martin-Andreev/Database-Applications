@@ -1,0 +1,10 @@
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.Models\bin\Debug\NewsDb.Models.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.Models\bin\Debug\NewsDb.Models.pdb
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.Models\obj\Debug\NewsDb.Models.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.Models\obj\Debug\NewsDb.Models.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.Models\obj\Debug\NewsDb.Models.pdb
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.Models\bin\Debug\NewsDb.Models.dll.config
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.Models\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.Models\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.Models\bin\Debug\EntityFramework.SqlServer.xml

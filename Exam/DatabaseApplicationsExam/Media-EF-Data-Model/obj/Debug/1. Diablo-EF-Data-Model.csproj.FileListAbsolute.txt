@@ -1,0 +1,10 @@
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Media-EF-Data-Model\bin\Debug\Media-EF-Data-Model.exe.config
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Media-EF-Data-Model\bin\Debug\Media-EF-Data-Model.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Media-EF-Data-Model\bin\Debug\Media-EF-Data-Model.pdb
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Media-EF-Data-Model\bin\Debug\EntityFramework.dll
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Media-EF-Data-Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Media-EF-Data-Model\bin\Debug\EntityFramework.xml
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Media-EF-Data-Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Media-EF-Data-Model\obj\Debug\1. Diablo-EF-Data-Model.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Media-EF-Data-Model\obj\Debug\Media-EF-Data-Model.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Media-EF-Data-Model\obj\Debug\Media-EF-Data-Model.pdb

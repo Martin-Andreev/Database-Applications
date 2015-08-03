@@ -1,0 +1,10 @@
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\01. ShowDataFromRelatedTables\bin\Debug\_01.ShowDataFromRelatedTables.exe.config
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\01. ShowDataFromRelatedTables\bin\Debug\_01.ShowDataFromRelatedTables.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\01. ShowDataFromRelatedTables\bin\Debug\_01.ShowDataFromRelatedTables.pdb
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\01. ShowDataFromRelatedTables\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\01. ShowDataFromRelatedTables\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\01. ShowDataFromRelatedTables\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\01. ShowDataFromRelatedTables\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\01. ShowDataFromRelatedTables\obj\Debug\01. ShowDataFromRelatedTables.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\01. ShowDataFromRelatedTables\obj\Debug\_01.ShowDataFromRelatedTables.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework-Performance\EntityFrameworkPerformance\01. ShowDataFromRelatedTables\obj\Debug\_01.ShowDataFromRelatedTables.pdb

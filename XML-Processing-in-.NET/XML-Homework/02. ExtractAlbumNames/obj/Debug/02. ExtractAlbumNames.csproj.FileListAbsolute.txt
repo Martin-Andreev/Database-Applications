@@ -1,0 +1,6 @@
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\02. ExtractAlbumNames\bin\Debug\_02.ExtractAlbumNames.exe.config
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\02. ExtractAlbumNames\bin\Debug\_02.ExtractAlbumNames.exe
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\02. ExtractAlbumNames\bin\Debug\_02.ExtractAlbumNames.pdb
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\02. ExtractAlbumNames\obj\Debug\02. ExtractAlbumNames.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\02. ExtractAlbumNames\obj\Debug\_02.ExtractAlbumNames.exe
+D:\SoftUni\Level #3\Database Apps\XML-Processing-in-.NET\XML-Homework\XML\02. ExtractAlbumNames\obj\Debug\_02.ExtractAlbumNames.pdb

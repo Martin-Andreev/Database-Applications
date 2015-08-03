@@ -1,0 +1,10 @@
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\SoftUniCRUD\bin\Debug\SoftUniCRUD.exe.config
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\SoftUniCRUD\bin\Debug\SoftUniCRUD.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\SoftUniCRUD\bin\Debug\SoftUniCRUD.pdb
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\SoftUniCRUD\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\SoftUniCRUD\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\SoftUniCRUD\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\SoftUniCRUD\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\SoftUniCRUD\obj\Debug\SoftUniCRUD.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\SoftUniCRUD\obj\Debug\SoftUniCRUD.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\SoftUniCRUD\obj\Debug\SoftUniCRUD.pdb

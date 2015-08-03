@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student>
+    <name>Ivan Ivanov</name>
+    <gender>male</gender>
+    <birth-date>1992-05-17</birth-date>
+    <phone-number>0881234567</phone-number>
+    <email>peter.91@gmail.com</email>
+    <university>Plovdiv University</university>
+    <specialty>Software Technology and Design</specialty>
+    <faculty-number>01-02-4569155</faculty-number>
+    <exams>
+      <exam>
+        <exam-name>Programming basics</exam-name>
+        <date-taken>2014-12-10</date-taken>
+        <grade>3.2</grade>
+      </exam>
+      <exam>
+        <exam-name>Web Technology</exam-name>
+        <date-taken>2015-03-05</date-taken>
+        <grade>5.50</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Rumen Andreev</name>
+    <gender>male</gender>
+    <birth-date>1971-02-03</birth-date>
+    <email>randreev@abv.bg</email>
+    <university>Cambrige</university>
+    <specialty>Informatic</specialty>
+    <exams>
+      <exam>
+        <exam-name>Advance programming</exam-name>
+        <date-taken>2015-03-10</date-taken>
+        <grade>6</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Dilyana Bachvarova</name>
+    <gender>Female</gender>
+    <birth-date>1994-11-13</birth-date>
+    <phone-number>1234567890</phone-number>
+    <email>dilyna@gmail.com</email>
+    <university>Pernik University</university>
+    <specialty>Arn</specialty>
+    <exams>
+      <exam>
+        <exam-name>History of art</exam-name>
+        <date-taken>2013-02-11</date-taken>
+        <grade>4.6</grade>
+      </exam>
+      <exam>
+        <exam-name>Music</exam-name>
+        <date-taken>2014-01-11</date-taken>
+        <grade>3</grade>
+      </exam>
+    </exams>
+  </student>
+</students>

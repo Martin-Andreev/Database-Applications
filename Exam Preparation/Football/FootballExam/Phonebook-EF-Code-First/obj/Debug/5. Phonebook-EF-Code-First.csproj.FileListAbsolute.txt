@@ -1,0 +1,10 @@
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Phonebook-EF-Code-First\bin\Debug\Phonebook-EF-Code-First.exe.config
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Phonebook-EF-Code-First\bin\Debug\Phonebook-EF-Code-First.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Phonebook-EF-Code-First\bin\Debug\Phonebook-EF-Code-First.pdb
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Phonebook-EF-Code-First\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Phonebook-EF-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Phonebook-EF-Code-First\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Phonebook-EF-Code-First\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Phonebook-EF-Code-First\obj\Debug\5. Phonebook-EF-Code-First.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Phonebook-EF-Code-First\obj\Debug\Phonebook-EF-Code-First.exe
+D:\SoftUni\Level #3\Database Apps\Exam Preparation\Football\FootballExam\Phonebook-EF-Code-First\obj\Debug\Phonebook-EF-Code-First.pdb

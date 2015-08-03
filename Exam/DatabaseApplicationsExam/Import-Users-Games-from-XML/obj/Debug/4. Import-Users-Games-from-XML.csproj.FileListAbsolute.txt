@@ -1,0 +1,12 @@
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\bin\Debug\Import-Users-Games-from-XML.exe.config
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\bin\Debug\Import-Users-Games-from-XML.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\bin\Debug\Import-Users-Games-from-XML.pdb
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\bin\Debug\EntityFramework.dll
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\bin\Debug\Media-EF-Data-Model.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\bin\Debug\Media-EF-Data-Model.pdb
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\bin\Debug\EntityFramework.xml
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\obj\Debug\Import-Users-Games-from-XML.exe
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\obj\Debug\Import-Users-Games-from-XML.pdb
+C:\Users\Martin\Desktop\DatabaseApplicationsExam\Import-Users-Games-from-XML\obj\Debug\4. Import-Users-Games-from-XML.csprojResolveAssemblyReference.cache

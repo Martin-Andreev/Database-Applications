@@ -1,0 +1,14 @@
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\bin\Debug\NewsDb.ConsoleClient.exe.config
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\bin\Debug\NewsDb.ConsoleClient.exe
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\bin\Debug\NewsDb.ConsoleClient.pdb
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\bin\Debug\NewsDb.Data.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\bin\Debug\NewsDb.Models.dll
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\bin\Debug\NewsDb.Data.pdb
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\bin\Debug\NewsDb.Models.pdb
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\obj\Debug\NewsDb.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\obj\Debug\NewsDb.ConsoleClient.exe
+D:\SoftUni\Level #3\Database Apps\Transactions-in-Entity-Framework\Transactions-in-Entity-Framework\NewsDb.ConsoleClient\obj\Debug\NewsDb.ConsoleClient.pdb

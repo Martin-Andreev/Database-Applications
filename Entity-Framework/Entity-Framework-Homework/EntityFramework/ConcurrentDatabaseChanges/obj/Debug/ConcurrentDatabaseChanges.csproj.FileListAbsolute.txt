@@ -1,0 +1,12 @@
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\bin\Debug\ConcurrentDatabaseChanges.exe.config
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\bin\Debug\ConcurrentDatabaseChanges.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\bin\Debug\ConcurrentDatabaseChanges.pdb
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\bin\Debug\EntityFramework.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\bin\Debug\SoftUniCRUD.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\bin\Debug\SoftUniCRUD.pdb
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\bin\Debug\EntityFramework.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\obj\Debug\ConcurrentDatabaseChanges.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\obj\Debug\ConcurrentDatabaseChanges.exe
+D:\SoftUni\Level #3\Database Apps\Entity-Framework\Entity-Framework-Homework\EntityFramework\ConcurrentDatabaseChanges\obj\Debug\ConcurrentDatabaseChanges.pdb
